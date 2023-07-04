@@ -1,0 +1,24 @@
+{
+  "name": "easy-yandex-metrika-component-for-next-js",
+  "version": "1.0.1",
+  "description": "",
+  "main": "./dist/YandexMetrika.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^13.4.8",
+    "peer": "^1.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.3.3",
+    "@types/react": "^18.2.14",
+    "typescript": "^5.1.6"
+  }
+}
